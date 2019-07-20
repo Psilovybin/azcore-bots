@@ -1,3 +1,7 @@
+I take no ownership of any of this code.  It all belongs to AzerothCore peeps, i'm just trying to get bots working and sharing what I have in hopes some other people will give it a boost.  Only reason why I want to get bots working is because i'm on a very limited internet connection and it's pretty boring playing by myself on a lone server.  I just hope someone will help me with this and give it the proper boost it needs.  
+
+The version here will run, aiplayerbot.conf needs to be in the bin directory, It seg faults more the more bots is loaded.  I think it has something to do with RAM and CPU, as my devel box is not very powerful.  That's going to change once I find some more DDR3 ram.  But for now, any help with this side project would be helpful.  If you'd like to help, i can make you an editor on this and I'll help what I can.
+
 # ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
 
 [![GetBadges Game](https://azerothcore-azerothcore-wotlk.getbadges.io/shield/company/azerothcore-azerothcore-wotlk)](https://azerothcore-azerothcore-wotlk.getbadges.io/?ref=shield-game)
